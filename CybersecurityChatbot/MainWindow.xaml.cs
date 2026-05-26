@@ -10,16 +10,12 @@ namespace CybersecurityChatbot
     public partial class MainWindow : Window
     {
         private readonly ChatbotEngine _chatbot;
-        // Instantiates the audio class
         private readonly VoiceGreeting _voiceGreeting = new VoiceGreeting();
 
         public MainWindow()
         {
             InitializeComponent();
 
-            // =========================
-            // ASCII BANNER
-            // =========================
             AsciiBanner.Text = @"
 ╔══════════════════════════════════════════════════════════════╗
 ║        ░█████╗░██╗░░░██╗██████╗░███████╗██████╗░              ║
@@ -41,14 +37,12 @@ namespace CybersecurityChatbot
 
             AppendMessage("Chatbot", "Hello! What is your name?", Colors.Cyan);
 
-            // Binds the Loaded event to safely trigger the voice greeting
             Loaded += MainWindow_Loaded;
         }
 
         // Executed as soon as the window is fully rendered for the user
         private async void MainWindow_Loaded(object sender, RoutedEventArgs e)
         {
-            // The await ensures the audio runs in the background without freezing the buttons or chat
             await _voiceGreeting.PlayGreetingAsync();
         }
 
@@ -59,7 +53,12 @@ namespace CybersecurityChatbot
             if (string.IsNullOrWhiteSpace(input))
                 return;
 
-            AppendMessage("You", input, Colors.LightGreen);
+            // Show real username instead of "You"
+            string displayName = string.IsNullOrWhiteSpace(_chatbot.UserName)
+                ? "You"
+                : _chatbot.UserName;
+
+            AppendMessage(displayName, input, Colors.LightGreen);
 
             string response = _chatbot.ProcessMessage(input);
 
@@ -68,7 +67,6 @@ namespace CybersecurityChatbot
             UserInput.Clear();
         }
 
-        // ✅ NEW CORE FIX (COLOR SYSTEM)
         private void AppendMessage(string sender, string message, Color color)
         {
             Paragraph paragraph = new Paragraph();
