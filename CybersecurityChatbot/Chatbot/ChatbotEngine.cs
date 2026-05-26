@@ -11,6 +11,9 @@ namespace CybersecurityChatbot.Chatbot
         private readonly MemoryManager _memory;
         private readonly FollowUpHandler _followUp;
 
+        // Exposes username to the UI
+        public string UserName => _context.UserName;
+
         public ChatbotEngine(ResponseService service)
         {
             _service = service;
@@ -56,9 +59,7 @@ namespace CybersecurityChatbot.Chatbot
 
             string lowerInput = input.ToLower();
 
-            // =========================
             // MEMORY (favorite topic)
-            // =========================
             if (lowerInput.Contains("i like") ||
                 lowerInput.Contains("i am interested in") ||
                 lowerInput.Contains("my favorite topic is"))
@@ -74,9 +75,7 @@ namespace CybersecurityChatbot.Chatbot
                 return $"Great {_context.UserName}! I'll remember that you're interested in {topic}.";
             }
 
-            // =========================
             // SENTIMENT
-            // =========================
             string mood = _sentiment.DetectSentiment(lowerInput);
 
             if (mood == "worried")
@@ -88,25 +87,19 @@ namespace CybersecurityChatbot.Chatbot
             if (mood == "curious")
                 return $"That’s great, {_context.UserName}! Curiosity helps you stay safe online.";
 
-            // =========================
             // FOLLOW-UP
-            // =========================
             if (_followUp.IsFollowUp(lowerInput))
             {
                 _context.TopicDepth++;
                 return _service.GetFollowUpResponse(_context.LastTopic);
             }
 
-            // =========================
             // MAIN RESPONSE
-            // =========================
             _context.LastTopic = input;
 
             string response = _service.GetResponse(input);
 
-            // =========================
             // PERSONAL MEMORY ADD-ON
-            // =========================
             if (!string.IsNullOrWhiteSpace(_context.FavoriteTopic))
             {
                 response += $"\n\nSince you're interested in {_context.FavoriteTopic}, stay safe online, {_context.UserName}.";
