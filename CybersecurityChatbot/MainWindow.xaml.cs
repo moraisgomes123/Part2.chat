@@ -10,7 +10,7 @@ namespace CybersecurityChatbot
     public partial class MainWindow : Window
     {
         private readonly ChatbotEngine _chatbot;
-        // Instancia a classe de áudio
+        // Instantiates the audio class
         private readonly VoiceGreeting _voiceGreeting = new VoiceGreeting();
 
         public MainWindow()
@@ -41,14 +41,14 @@ namespace CybersecurityChatbot
 
             AppendMessage("Chatbot", "Hello! What is your name?", Colors.Cyan);
 
-            // Vincula o evento Loaded para disparar a saudação de voz de forma segura
+            // Binds the Loaded event to safely trigger the voice greeting
             Loaded += MainWindow_Loaded;
         }
 
-        // Executado assim que a janela aparece totalmente renderizada para o usuário
+        // Executed as soon as the window is fully rendered for the user
         private async void MainWindow_Loaded(object sender, RoutedEventArgs e)
         {
-            // O await garante que o áudio rode em segundo plano sem congelar os botões ou o chat
+            // The await ensures the audio runs in the background without freezing the buttons or chat
             await _voiceGreeting.PlayGreetingAsync();
         }
 
