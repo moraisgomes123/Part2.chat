@@ -1,0 +1,372 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9DE866-A115-4DE9-9B1B-95C764A36464}|CybersecurityChatbot\\CybersecurityChatbot.csproj|C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\cybersecuritychatbot\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9DE866-A115-4DE9-9B1B-95C764A36464}|CybersecurityChatbot\\CybersecurityChatbot.csproj|solutionrelative:cybersecuritychatbot\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9DE866-A115-4DE9-9B1B-95C764A36464}|CybersecurityChatbot\\CybersecurityChatbot.csproj|c:\\users\\morai\\onedrive\\desktop\\chatbot2\\chatbot2\\cybersecuritychatbot\\chatbot\\voicegreeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9DE866-A115-4DE9-9B1B-95C764A36464}|CybersecurityChatbot\\CybersecurityChatbot.csproj|solutionrelative:cybersecuritychatbot\\chatbot\\voicegreeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9DE866-A115-4DE9-9B1B-95C764A36464}|CybersecurityChatbot\\CybersecurityChatbot.csproj|C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\cybersecuritychatbot\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E9DE866-A115-4DE9-9B1B-95C764A36464}|CybersecurityChatbot\\CybersecurityChatbot.csproj|solutionrelative:cybersecuritychatbot\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9DE866-A115-4DE9-9B1B-95C764A36464}|CybersecurityChatbot\\CybersecurityChatbot.csproj|C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\cybersecuritychatbot\\services\\responseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9DE866-A115-4DE9-9B1B-95C764A36464}|CybersecurityChatbot\\CybersecurityChatbot.csproj|solutionrelative:cybersecuritychatbot\\services\\responseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9DE866-A115-4DE9-9B1B-95C764A36464}|CybersecurityChatbot\\CybersecurityChatbot.csproj|C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\cybersecuritychatbot\\services\\randomresponseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9DE866-A115-4DE9-9B1B-95C764A36464}|CybersecurityChatbot\\CybersecurityChatbot.csproj|solutionrelative:cybersecuritychatbot\\services\\randomresponseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9DE866-A115-4DE9-9B1B-95C764A36464}|CybersecurityChatbot\\CybersecurityChatbot.csproj|C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\cybersecuritychatbot\\services\\keywordrecognitionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9DE866-A115-4DE9-9B1B-95C764A36464}|CybersecurityChatbot\\CybersecurityChatbot.csproj|solutionrelative:cybersecuritychatbot\\services\\keywordrecognitionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9DE866-A115-4DE9-9B1B-95C764A36464}|CybersecurityChatbot\\CybersecurityChatbot.csproj|C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\cybersecuritychatbot\\services\\jsonresponseloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9DE866-A115-4DE9-9B1B-95C764A36464}|CybersecurityChatbot\\CybersecurityChatbot.csproj|solutionrelative:cybersecuritychatbot\\services\\jsonresponseloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9DE866-A115-4DE9-9B1B-95C764A36464}|CybersecurityChatbot\\CybersecurityChatbot.csproj|C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\cybersecuritychatbot\\services\\intentclassifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9DE866-A115-4DE9-9B1B-95C764A36464}|CybersecurityChatbot\\CybersecurityChatbot.csproj|solutionrelative:cybersecuritychatbot\\services\\intentclassifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9DE866-A115-4DE9-9B1B-95C764A36464}|CybersecurityChatbot\\CybersecurityChatbot.csproj|C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\cybersecuritychatbot\\services\\fallbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9DE866-A115-4DE9-9B1B-95C764A36464}|CybersecurityChatbot\\CybersecurityChatbot.csproj|solutionrelative:cybersecuritychatbot\\services\\fallbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9DE866-A115-4DE9-9B1B-95C764A36464}|CybersecurityChatbot\\CybersecurityChatbot.csproj|C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\cybersecuritychatbot\\chatbot\\chatbotengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9DE866-A115-4DE9-9B1B-95C764A36464}|CybersecurityChatbot\\CybersecurityChatbot.csproj|solutionrelative:cybersecuritychatbot\\chatbot\\chatbotengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9DE866-A115-4DE9-9B1B-95C764A36464}|CybersecurityChatbot\\CybersecurityChatbot.csproj|C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\cybersecuritychatbot\\chatbot\\asciiart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9DE866-A115-4DE9-9B1B-95C764A36464}|CybersecurityChatbot\\CybersecurityChatbot.csproj|solutionrelative:cybersecuritychatbot\\chatbot\\asciiart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9DE866-A115-4DE9-9B1B-95C764A36464}|CybersecurityChatbot\\CybersecurityChatbot.csproj|C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\cybersecuritychatbot\\chatbot\\conversationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9DE866-A115-4DE9-9B1B-95C764A36464}|CybersecurityChatbot\\CybersecurityChatbot.csproj|solutionrelative:cybersecuritychatbot\\chatbot\\conversationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9DE866-A115-4DE9-9B1B-95C764A36464}|CybersecurityChatbot\\CybersecurityChatbot.csproj|C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\cybersecuritychatbot\\chatbot\\followuphandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9DE866-A115-4DE9-9B1B-95C764A36464}|CybersecurityChatbot\\CybersecurityChatbot.csproj|solutionrelative:cybersecuritychatbot\\chatbot\\followuphandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9DE866-A115-4DE9-9B1B-95C764A36464}|CybersecurityChatbot\\CybersecurityChatbot.csproj|C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\cybersecuritychatbot\\chatbot\\memorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9DE866-A115-4DE9-9B1B-95C764A36464}|CybersecurityChatbot\\CybersecurityChatbot.csproj|solutionrelative:cybersecuritychatbot\\chatbot\\memorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9DE866-A115-4DE9-9B1B-95C764A36464}|CybersecurityChatbot\\CybersecurityChatbot.csproj|C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\cybersecuritychatbot\\chatbot\\sentimentanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9DE866-A115-4DE9-9B1B-95C764A36464}|CybersecurityChatbot\\CybersecurityChatbot.csproj|solutionrelative:cybersecuritychatbot\\chatbot\\sentimentanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9DE866-A115-4DE9-9B1B-95C764A36464}|CybersecurityChatbot\\CybersecurityChatbot.csproj|C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\cybersecuritychatbot\\chatbot\\uiformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9DE866-A115-4DE9-9B1B-95C764A36464}|CybersecurityChatbot\\CybersecurityChatbot.csproj|solutionrelative:cybersecuritychatbot\\chatbot\\uiformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\morai\\OneDrive\\Desktop\\CybersecurityChatbot\\chatbot2.wpf\\CybersecurityChatbot\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9DE866-A115-4DE9-9B1B-95C764A36464}|CybersecurityChatbot\\CybersecurityChatbot.csproj|C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\cybersecuritychatbot\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9DE866-A115-4DE9-9B1B-95C764A36464}|CybersecurityChatbot\\CybersecurityChatbot.csproj|solutionrelative:cybersecuritychatbot\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9DE866-A115-4DE9-9B1B-95C764A36464}|CybersecurityChatbot\\CybersecurityChatbot.csproj|C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\cybersecuritychatbot\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E9DE866-A115-4DE9-9B1B-95C764A36464}|CybersecurityChatbot\\CybersecurityChatbot.csproj|solutionrelative:cybersecuritychatbot\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9DE866-A115-4DE9-9B1B-95C764A36464}|CybersecurityChatbot\\CybersecurityChatbot.csproj|C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\cybersecuritychatbot\\utilities\\inputvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9DE866-A115-4DE9-9B1B-95C764A36464}|CybersecurityChatbot\\CybersecurityChatbot.csproj|solutionrelative:cybersecuritychatbot\\utilities\\inputvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9DE866-A115-4DE9-9B1B-95C764A36464}|CybersecurityChatbot\\CybersecurityChatbot.csproj|C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\cybersecuritychatbot\\data\\responses.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E9DE866-A115-4DE9-9B1B-95C764A36464}|CybersecurityChatbot\\CybersecurityChatbot.csproj|solutionrelative:cybersecuritychatbot\\data\\responses.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9DE866-A115-4DE9-9B1B-95C764A36464}|CybersecurityChatbot\\CybersecurityChatbot.csproj|C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\cybersecuritychatbot\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9DE866-A115-4DE9-9B1B-95C764A36464}|CybersecurityChatbot\\CybersecurityChatbot.csproj|solutionrelative:cybersecuritychatbot\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\morai\\OneDrive\\Desktop\\CybersecurityChatbot\\chatbot2.wpf\\CybersecurityChatbot\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\..\\CybersecurityChatbot\\chatbot2.wpf\\CybersecurityChatbot\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\morai\\OneDrive\\Desktop\\CybersecurityChatbot\\chatbot2.wpf\\CybersecurityChatbot\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\..\\CybersecurityChatbot\\chatbot2.wpf\\CybersecurityChatbot\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T17:15:18.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FallbackService.cs",
+              "DocumentMoniker": "C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\CybersecurityChatbot\\Services\\FallbackService.cs",
+              "RelativeDocumentMoniker": "CybersecurityChatbot\\Services\\FallbackService.cs",
+              "ToolTip": "C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\CybersecurityChatbot\\Services\\FallbackService.cs",
+              "RelativeToolTip": "CybersecurityChatbot\\Services\\FallbackService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T09:05:42.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IntentClassifier.cs",
+              "DocumentMoniker": "C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\CybersecurityChatbot\\Services\\IntentClassifier.cs",
+              "RelativeDocumentMoniker": "CybersecurityChatbot\\Services\\IntentClassifier.cs",
+              "ToolTip": "C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\CybersecurityChatbot\\Services\\IntentClassifier.cs",
+              "RelativeToolTip": "CybersecurityChatbot\\Services\\IntentClassifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T08:57:08.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\CybersecurityChatbot\\App.xaml.cs",
+              "RelativeDocumentMoniker": "CybersecurityChatbot\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\CybersecurityChatbot\\App.xaml.cs",
+              "RelativeToolTip": "CybersecurityChatbot\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T07:33:49.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\CybersecurityChatbot\\App.xaml",
+              "RelativeDocumentMoniker": "CybersecurityChatbot\\App.xaml",
+              "ToolTip": "C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\CybersecurityChatbot\\App.xaml",
+              "RelativeToolTip": "CybersecurityChatbot\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-21T07:33:29.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "responses.json",
+              "DocumentMoniker": "C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\CybersecurityChatbot\\Data\\responses.json",
+              "RelativeDocumentMoniker": "CybersecurityChatbot\\Data\\responses.json",
+              "ToolTip": "C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\CybersecurityChatbot\\Data\\responses.json",
+              "RelativeToolTip": "CybersecurityChatbot\\Data\\responses.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-21T07:09:17.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InputValidator.cs",
+              "DocumentMoniker": "C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\CybersecurityChatbot\\Utilities\\InputValidator.cs",
+              "RelativeDocumentMoniker": "CybersecurityChatbot\\Utilities\\InputValidator.cs",
+              "ToolTip": "C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\CybersecurityChatbot\\Utilities\\InputValidator.cs",
+              "RelativeToolTip": "CybersecurityChatbot\\Utilities\\InputValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T07:06:12.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RandomResponseService.cs",
+              "DocumentMoniker": "C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\CybersecurityChatbot\\Services\\RandomResponseService.cs",
+              "RelativeDocumentMoniker": "CybersecurityChatbot\\Services\\RandomResponseService.cs",
+              "ToolTip": "C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\CybersecurityChatbot\\Services\\RandomResponseService.cs",
+              "RelativeToolTip": "CybersecurityChatbot\\Services\\RandomResponseService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T07:05:28.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KeywordRecognitionService.cs",
+              "DocumentMoniker": "C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\CybersecurityChatbot\\Services\\KeywordRecognitionService.cs",
+              "RelativeDocumentMoniker": "CybersecurityChatbot\\Services\\KeywordRecognitionService.cs",
+              "ToolTip": "C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\CybersecurityChatbot\\Services\\KeywordRecognitionService.cs",
+              "RelativeToolTip": "CybersecurityChatbot\\Services\\KeywordRecognitionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T07:04:56.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResponseService.cs",
+              "DocumentMoniker": "C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\CybersecurityChatbot\\Services\\ResponseService.cs",
+              "RelativeDocumentMoniker": "CybersecurityChatbot\\Services\\ResponseService.cs",
+              "ToolTip": "C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\CybersecurityChatbot\\Services\\ResponseService.cs",
+              "RelativeToolTip": "CybersecurityChatbot\\Services\\ResponseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T07:03:59.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JsonResponseLoader.cs",
+              "DocumentMoniker": "C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\CybersecurityChatbot\\Services\\JsonResponseLoader.cs",
+              "RelativeDocumentMoniker": "CybersecurityChatbot\\Services\\JsonResponseLoader.cs",
+              "ToolTip": "C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\CybersecurityChatbot\\Services\\JsonResponseLoader.cs",
+              "RelativeToolTip": "CybersecurityChatbot\\Services\\JsonResponseLoader.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA2wBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T07:03:23.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\CybersecurityChatbot\\Models\\Response.cs",
+              "RelativeDocumentMoniker": "CybersecurityChatbot\\Models\\Response.cs",
+              "ToolTip": "C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\CybersecurityChatbot\\Models\\Response.cs",
+              "RelativeToolTip": "CybersecurityChatbot\\Models\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T07:02:14.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FollowUpHandler.cs",
+              "DocumentMoniker": "C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\CybersecurityChatbot\\Chatbot\\FollowUpHandler.cs",
+              "RelativeDocumentMoniker": "CybersecurityChatbot\\Chatbot\\FollowUpHandler.cs",
+              "ToolTip": "C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\CybersecurityChatbot\\Chatbot\\FollowUpHandler.cs",
+              "RelativeToolTip": "CybersecurityChatbot\\Chatbot\\FollowUpHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T07:01:27.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MemoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\CybersecurityChatbot\\Chatbot\\MemoryManager.cs",
+              "RelativeDocumentMoniker": "CybersecurityChatbot\\Chatbot\\MemoryManager.cs",
+              "ToolTip": "C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\CybersecurityChatbot\\Chatbot\\MemoryManager.cs",
+              "RelativeToolTip": "CybersecurityChatbot\\Chatbot\\MemoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T07:00:49.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SentimentAnalyzer.cs",
+              "DocumentMoniker": "C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\CybersecurityChatbot\\Chatbot\\SentimentAnalyzer.cs",
+              "RelativeDocumentMoniker": "CybersecurityChatbot\\Chatbot\\SentimentAnalyzer.cs",
+              "ToolTip": "C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\CybersecurityChatbot\\Chatbot\\SentimentAnalyzer.cs",
+              "RelativeToolTip": "CybersecurityChatbot\\Chatbot\\SentimentAnalyzer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T07:00:07.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UIFormatter.cs",
+              "DocumentMoniker": "C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\CybersecurityChatbot\\Chatbot\\UIFormatter.cs",
+              "RelativeDocumentMoniker": "CybersecurityChatbot\\Chatbot\\UIFormatter.cs",
+              "ToolTip": "C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\CybersecurityChatbot\\Chatbot\\UIFormatter.cs",
+              "RelativeToolTip": "CybersecurityChatbot\\Chatbot\\UIFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T06:59:32.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConversationContext.cs",
+              "DocumentMoniker": "C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\CybersecurityChatbot\\Chatbot\\ConversationContext.cs",
+              "RelativeDocumentMoniker": "CybersecurityChatbot\\Chatbot\\ConversationContext.cs",
+              "ToolTip": "C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\CybersecurityChatbot\\Chatbot\\ConversationContext.cs",
+              "RelativeToolTip": "CybersecurityChatbot\\Chatbot\\ConversationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T06:58:57.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AsciiArt.cs",
+              "DocumentMoniker": "C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\CybersecurityChatbot\\Chatbot\\AsciiArt.cs",
+              "RelativeDocumentMoniker": "CybersecurityChatbot\\Chatbot\\AsciiArt.cs",
+              "ToolTip": "C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\CybersecurityChatbot\\Chatbot\\AsciiArt.cs",
+              "RelativeToolTip": "CybersecurityChatbot\\Chatbot\\AsciiArt.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T06:58:17.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VoiceGreeting.cs",
+              "DocumentMoniker": "C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\CybersecurityChatbot\\Chatbot\\VoiceGreeting.cs",
+              "RelativeDocumentMoniker": "CybersecurityChatbot\\Chatbot\\VoiceGreeting.cs",
+              "ToolTip": "C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\CybersecurityChatbot\\Chatbot\\VoiceGreeting.cs",
+              "RelativeToolTip": "CybersecurityChatbot\\Chatbot\\VoiceGreeting.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T06:57:30.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChatbotEngine.cs",
+              "DocumentMoniker": "C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\CybersecurityChatbot\\Chatbot\\ChatbotEngine.cs",
+              "RelativeDocumentMoniker": "CybersecurityChatbot\\Chatbot\\ChatbotEngine.cs",
+              "ToolTip": "C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\CybersecurityChatbot\\Chatbot\\ChatbotEngine.cs",
+              "RelativeToolTip": "CybersecurityChatbot\\Chatbot\\ChatbotEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T06:56:30.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\CybersecurityChatbot\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CybersecurityChatbot\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\CybersecurityChatbot\\MainWindow.xaml",
+              "RelativeToolTip": "CybersecurityChatbot\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-21T06:50:31.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\CybersecurityChatbot\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CybersecurityChatbot\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\morai\\OneDrive\\Desktop\\chatbot2\\CHATBOT2\\CybersecurityChatbot\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CybersecurityChatbot\\MainWindow.xaml.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAiwEYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T06:50:28.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

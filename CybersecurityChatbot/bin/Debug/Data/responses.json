@@ -1,0 +1,336 @@
+[
+  {
+    "Keyword": "password",
+    "Synonyms": [ "password", "login", "credentials", "sign in", "account", "login details", "account hacked" ],
+    "Replies": [
+      "A password is a secret string used to secure your accounts. It should be strong and unique.",
+      "Use strong passwords with uppercase, lowercase, numbers, and symbols. Avoid reusing passwords.",
+      "Never share your login details with anyone, even if they claim to be support staff."
+    ]
+  },
+
+  {
+    "Keyword": "weak password",
+    "Synonyms": [ "weak password", "123456", "easy password", "simple password" ],
+    "Replies": [
+      "Weak passwords like 123456 or 'password' are easy to crack. Always use strong, unique passwords.",
+      "Avoid predictable passwords such as names, birthdays, or common words."
+    ]
+  },
+
+  {
+    "Keyword": "phishing",
+    "Synonyms": [ "phishing", "scam email", "fake email", "fraud message", "suspicious link", "email scam" ],
+    "Replies": [
+      "Phishing is a cyber attack where criminals trick you into revealing personal information through fake emails or websites.",
+      "Always check the sender's email address and avoid clicking suspicious links.",
+      "Phishing messages often create urgency to pressure you into acting quickly."
+    ]
+  },
+
+  {
+    "Keyword": "scam",
+    "Synonyms": [ "scam", "fraud", "fake message", "trick", "deception" ],
+    "Replies": [
+      "A scam is a deceptive trick used by cybercriminals to steal money or personal information.",
+      "Scammers often pretend to be trusted organisations to gain your trust.",
+      "If something feels suspicious online, trust your instincts and verify it."
+    ]
+  },
+
+  {
+    "Keyword": "malware",
+    "Synonyms": [ "malware", "virus", "trojan", "worm", "spyware", "ransomware" ],
+    "Replies": [
+      "Malware is harmful software designed to damage or steal data from your device.",
+      "It can spread through downloads, email attachments, or unsafe websites.",
+      "Use antivirus software and avoid downloading files from unknown sources."
+    ]
+  },
+
+  {
+    "Keyword": "ransomware",
+    "Synonyms": [ "ransomware", "file lock", "encrypted files attack" ],
+    "Replies": [
+      "Ransomware locks your files and demands payment to restore access.",
+      "Always keep backups of your important data to protect yourself.",
+      "Never pay the ransom — there is no guarantee your files will be restored."
+    ]
+  },
+
+  {
+    "Keyword": "spyware",
+    "Synonyms": [ "spyware", "tracking software", "hidden monitoring" ],
+    "Replies": [
+      "Spyware secretly monitors your activity without your permission.",
+      "It can steal personal data like passwords and browsing history."
+    ]
+  },
+
+  {
+    "Keyword": "keylogger",
+    "Synonyms": [ "keylogger", "keystroke recorder" ],
+    "Replies": [
+      "A keylogger records everything you type, including passwords and messages."
+    ]
+  },
+
+  {
+    "Keyword": "hacker",
+    "Synonyms": [ "hacker", "hack", "cyber attack", "unauthorized access" ],
+    "Replies": [
+      "A hacker is someone who tries to gain unauthorized access to systems.",
+      "Ethical hackers help improve security by finding vulnerabilities."
+    ]
+  },
+
+  {
+    "Keyword": "ethical hacking",
+    "Synonyms": [ "ethical hacking", "white hat hacking" ],
+    "Replies": [
+      "Ethical hacking is legal testing of systems to find and fix security weaknesses."
+    ]
+  },
+
+  {
+    "Keyword": "firewall",
+    "Synonyms": [ "firewall", "network protection" ],
+    "Replies": [
+      "A firewall acts as a barrier between your device and unwanted network traffic."
+    ]
+  },
+
+  {
+    "Keyword": "antivirus",
+    "Synonyms": [ "antivirus", "virus protection software" ],
+    "Replies": [
+      "Antivirus software detects and removes malware from your device."
+    ]
+  },
+
+  {
+    "Keyword": "vpn",
+    "Synonyms": [ "vpn", "virtual private network" ],
+    "Replies": [
+      "A VPN encrypts your internet connection and protects your privacy online."
+    ]
+  },
+
+  {
+    "Keyword": "encryption",
+    "Synonyms": [ "encryption", "secure data encoding" ],
+    "Replies": [
+      "Encryption converts data into unreadable form that only authorized users can decode."
+    ]
+  },
+
+  {
+    "Keyword": "decryption",
+    "Synonyms": [ "decryption", "decode data" ],
+    "Replies": [
+      "Decryption is the process of turning encrypted data back into readable form."
+    ]
+  },
+
+  {
+    "Keyword": "2fa",
+    "Synonyms": [ "2fa", "two factor authentication", "otp", "login code" ],
+    "Replies": [
+      "Two-factor authentication adds an extra layer of security beyond your password.",
+      "Even if someone steals your password, 2FA helps protect your account."
+    ]
+  },
+
+  {
+    "Keyword": "authentication",
+    "Synonyms": [ "authentication", "login verification" ],
+    "Replies": [
+      "Authentication verifies your identity before allowing access to an account."
+    ]
+  },
+
+  {
+    "Keyword": "authorization",
+    "Synonyms": [ "authorization", "access control" ],
+    "Replies": [
+      "Authorization determines what actions you are allowed to perform in a system."
+    ]
+  },
+
+  {
+    "Keyword": "data breach",
+    "Synonyms": [ "data breach", "leak", "hacked database" ],
+    "Replies": [
+      "A data breach happens when sensitive data is accessed without permission."
+    ]
+  },
+
+  {
+    "Keyword": "identity theft",
+    "Synonyms": [ "identity theft", "stolen identity" ],
+    "Replies": [
+      "Identity theft is when someone steals your personal information to commit fraud."
+    ]
+  },
+
+  {
+    "Keyword": "privacy",
+    "Synonyms": [ "privacy", "data protection", "personal info" ],
+    "Replies": [
+      "Protect your privacy by limiting the personal information you share online.",
+      "Review app permissions and social media settings regularly."
+    ]
+  },
+
+  {
+    "Keyword": "social engineering",
+    "Synonyms": [ "social engineering", "manipulation attack" ],
+    "Replies": [
+      "Social engineering manipulates people into revealing confidential information."
+    ]
+  },
+
+  {
+    "Keyword": "spam",
+    "Synonyms": [ "spam", "junk email" ],
+    "Replies": [
+      "Spam messages are unwanted emails often used for scams or malware."
+    ]
+  },
+
+  {
+    "Keyword": "ddos",
+    "Synonyms": [ "ddos", "distributed denial of service" ],
+    "Replies": [
+      "A DDoS attack floods a system with traffic to make it unavailable."
+    ]
+  },
+
+  {
+    "Keyword": "botnet",
+    "Synonyms": [ "botnet", "zombie network" ],
+    "Replies": [
+      "A botnet is a group of infected devices controlled by hackers."
+    ]
+  },
+
+  {
+    "Keyword": "brute force",
+    "Synonyms": [ "brute force", "password guessing attack" ],
+    "Replies": [
+      "Brute force attacks try many password combinations until one works."
+    ]
+  },
+
+  {
+    "Keyword": "update",
+    "Synonyms": [ "update", "software update" ],
+    "Replies": [
+      "Always update your software to fix security vulnerabilities."
+    ]
+  },
+
+  {
+    "Keyword": "patch",
+    "Synonyms": [ "patch", "security fix" ],
+    "Replies": [
+      "Security patches fix vulnerabilities in software systems."
+    ]
+  },
+
+  {
+    "Keyword": "cloud security",
+    "Synonyms": [ "cloud security", "online storage protection" ],
+    "Replies": [
+      "Cloud security protects data stored online using encryption and access control."
+    ]
+  },
+
+  {
+    "Keyword": "public wifi",
+    "Synonyms": [ "public wifi", "free wifi", "open network" ],
+    "Replies": [
+      "Avoid using public Wi-Fi for sensitive activities unless using a VPN."
+    ]
+  },
+
+  {
+    "Keyword": "secure website",
+    "Synonyms": [ "secure website", "https site" ],
+    "Replies": [
+      "Always check for HTTPS and a padlock icon before entering sensitive data."
+    ]
+  },
+
+  {
+    "Keyword": "https",
+    "Synonyms": [ "https", "secure connection" ],
+    "Replies": [
+      "HTTPS encrypts data between your browser and websites."
+    ]
+  },
+
+  {
+    "Keyword": "cookies",
+    "Synonyms": [ "cookies", "browser data" ],
+    "Replies": [
+      "Cookies store information about your browsing activity."
+    ]
+  },
+
+  {
+    "Keyword": "dark web",
+    "Synonyms": [ "dark web", "hidden internet" ],
+    "Replies": [
+      "The dark web is a hidden part of the internet often used anonymously."
+    ]
+  },
+
+  {
+    "Keyword": "cyber attack",
+    "Synonyms": [ "cyber attack", "attack on system" ],
+    "Replies": [
+      "A cyber attack is an attempt to damage or gain unauthorized access to systems."
+    ]
+  },
+
+  {
+    "Keyword": "threat",
+    "Synonyms": [ "threat", "danger" ],
+    "Replies": [
+      "A threat is any potential danger to a system."
+    ]
+  },
+
+  {
+    "Keyword": "vulnerability",
+    "Synonyms": [ "vulnerability", "weakness" ],
+    "Replies": [
+      "A vulnerability is a weakness that can be exploited by attackers."
+    ]
+  },
+
+  {
+    "Keyword": "risk",
+    "Synonyms": [ "risk", "danger level" ],
+    "Replies": [
+      "Risk is the chance of loss or damage from a security issue."
+    ]
+  },
+
+  {
+    "Keyword": "backup",
+    "Synonyms": [ "backup", "data save" ],
+    "Replies": [
+      "Always back up your data regularly to prevent data loss."
+    ]
+  },
+
+  {
+    "Keyword": "incident response",
+    "Synonyms": [ "incident response", "security response" ],
+    "Replies": [
+      "Incident response is the process of handling cybersecurity breaches."
+    ]
+  }
+]
