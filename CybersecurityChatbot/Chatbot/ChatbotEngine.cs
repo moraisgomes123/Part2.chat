@@ -35,7 +35,7 @@ namespace CybersecurityChatbot.Chatbot
             {
                 string clean = input.ToLower().Trim();
 
-                clean = clean.Replace(",", "").Replace(".", "");
+                clean = clean.Replace(",", "").Replace(".", "").Replace("!", "").Replace("?", "");
 
                 clean = clean
                     .Replace("my name is", "")
