@@ -23,7 +23,7 @@ jobs:
       uses: NuGet/setup-nuget@v2
 
     - name: Restore packages
-      run: nuget restore CybersecurityChatbot/CybersecurityChatbot.sln
+      run: nuget restore CybersecurityChatbot.sln
 
     - name: Build solution
-      run: msbuild CybersecurityChatbot/CybersecurityChatbot.sln /p:Configuration=Release
+      run: msbuild CybersecurityChatbot.sln /p:Configuration=Release
