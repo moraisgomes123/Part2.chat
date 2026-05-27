@@ -4,9 +4,6 @@ on:
   push:
     branches: [ main, master ]
 
-  pull_request:
-    branches: [ main, master ]
-
 jobs:
   build:
 
@@ -22,8 +19,8 @@ jobs:
     - name: Setup NuGet
       uses: NuGet/setup-nuget@v2
 
-    - name: Restore packages
-      run: nuget restore CybersecurityChatbot.sln
+    - name: Restore NuGet packages
+      run: nuget restore CybersecurityChatbot.slnx
 
-    - name: Build solution
-      run: msbuild CybersecurityChatbot.sln /p:Configuration=Release
+    - name: Build Solution
+      run: msbuild CybersecurityChatbot.slnx /p:Configuration=Release
