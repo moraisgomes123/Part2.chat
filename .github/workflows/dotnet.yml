@@ -10,22 +10,20 @@ on:
 jobs:
   build:
 
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
 
     steps:
     - name: Checkout code
       uses: actions/checkout@v4
 
-    - name: Setup .NET
-      uses: actions/setup-dotnet@v4
-      with:
-        dotnet-version: '8.0.x'
+    - name: Setup MSBuild
+      uses: microsoft/setup-msbuild@v2
 
-    - name: Restore dependencies
-      run: dotnet restore
+    - name: Setup NuGet
+      uses: NuGet/setup-nuget@v2
 
-    - name: Build project
-      run: dotnet build --no-restore
+    - name: Restore packages
+      run: nuget restore CybersecurityChatbot/CybersecurityChatbot.sln
 
-    - name: Build verification
-      run: echo "Build successful"
+    - name: Build solution
+      run: msbuild CybersecurityChatbot/CybersecurityChatbot.sln /p:Configuration=Release
