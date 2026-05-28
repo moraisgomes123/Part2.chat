@@ -144,8 +144,8 @@ The chatbot can understand follow-up questions based on previous conversation co
 User: What is phishing?
 Bot: Explains phishing attack
 
-User: How can I avoid it?
-Bot: Understands "it" refers to phishing
+User: tell me more?
+Bot: Understands that it refers to phishing
 
 
 This functionality is managed using:
@@ -385,7 +385,7 @@ Bot: Hello! How can I help you stay safe online today?
 User: What is phishing?
 Bot: Phishing is a cyberattack where attackers impersonate trusted organizations to steal sensitive information.
 
-User: How do I avoid it?
+User: give me another tip
 Bot: Avoid clicking suspicious links and always verify the sender before responding.
 ```
 
