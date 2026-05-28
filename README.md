@@ -189,6 +189,12 @@ The chatbot provides educational information about:
 
 Part 2 introduces a complete WPF graphical interface replacing the console-only interface from Part 1.
 
+<img width="1906" height="1092" alt="Screenshot 2026-05-28 155944" src="https://github.com/user-attachments/assets/7c6b424e-1eb7-48f9-9d45-25794d078453" />
+
+
+<img width="1917" height="1081" alt="Screenshot 2026-05-28 160045" src="https://github.com/user-attachments/assets/33c1ea2e-132b-4ab4-872e-2cbf119533ce" />
+
+
 
 # 🎨 GUI Features
 
