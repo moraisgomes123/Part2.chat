@@ -79,8 +79,7 @@ namespace CybersecurityChatbot.Services
                     _prefixes[
                         _random.Next(_prefixes.Count)];
 
-                return prefix + " " + reply +
-                    "\n\nWould you like more details on this topic?";
+                return prefix + " " + reply;
             }
 
             // ===================================
