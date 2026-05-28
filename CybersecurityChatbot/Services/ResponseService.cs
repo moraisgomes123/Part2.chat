@@ -64,8 +64,7 @@ namespace CybersecurityChatbot.Services
                 {
                     reply = match.Replies[0];
 
-                    return reply +
-                        "\n\nWould you like tips on this topic?";
+                    return reply;
                 }
 
                 // ===================================
