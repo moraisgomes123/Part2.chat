@@ -391,7 +391,7 @@ Bot: Hello! How can I help you stay safe online today?
 User: What is phishing?
 Bot: Phishing is a cyberattack where attackers impersonate trusted organizations to steal sensitive information.
 
-User: give me another tip
+User: another tip
 Bot: Avoid clicking suspicious links and always verify the sender before responding.
 ```
 
@@ -430,6 +430,22 @@ Potential future improvements include:
 
 # 📚 References
 
+Codecademy. (2026) *Codecademy*. Available at: https://www.codecademy.com (Accessed: 20 May 2026).
+
+Coursera. (2026) *Coursera*. Available at: https://www.coursera.org (Accessed: 22 May 2026).
+
+freeCodeCamp. (2026) *freeCodeCamp*. Available at: https://www.freecodecamp.org (Accessed: 22 May 2026).
+
+GeeksforGeeks. (2026) *GeeksforGeeks*. Available at: https://www.geeksforgeeks.org (Accessed: 22 May 2026).
+
+GitHub. (2026) *GitHub*. Available at: https://github.com (Accessed: 29 May 2026).
+
+Microsoft Learn. (2026) *Microsoft Learn*. Available at: https://learn.microsoft.com (Accessed: 23 May 2026).
+
+Stack Overflow. (2026) *Stack Overflow*. Available at: https://stackoverflow.com (Accessed: 24 May 2026).
+
+W3Schools. (2026) *W3Schools Online Web Tutorials*. Available at: https://www.w3schools.com (Accessed: 23 May 2026).
+
 ## Cybersecurity References
 
 Stallings, W. and Brown, L. (2018) *Cybersecurity Essentials*. 2nd edn. Pearson.
@@ -461,16 +477,6 @@ https://learn.microsoft.com/dotnet/standard/serialization/system-text-json
 
 Heath, M. (2024) NAudio GitHub Repository.  
 https://github.com/naudio/NAudio
-
----
-
-## Software Engineering
-
-Martin, R.C. (2008) *Clean Code: A Handbook of Agile Software Craftsmanship*.
-
-Gamma, E., Helm, R., Johnson, R. and Vlissides, J. (1994) *Design Patterns: Elements of Reusable Object-Oriented Software*.
-
-Friedl, J.E.F. (2006) *Mastering Regular Expressions*. 3rd edn. O’Reilly.
 
 ---
 
